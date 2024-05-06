@@ -23,6 +23,9 @@ void manusia::shownilaipelajar(pelajar& x) {
 
 int main()
 {
-
+    manusia budi;
+    pelajar pbudi;
+    budi.shownilaipelajar(pbudi);
+    return 0;
 }
 
